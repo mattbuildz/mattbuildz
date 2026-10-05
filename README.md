@@ -4,9 +4,9 @@ I'm a second-year student of Artificial Intelligence in Business at Lublin Unive
 
 ### About me
 
-- **Machine learning:** I'm learning it from the ground up, right now computer vision and object detection.
-- **AI agents:** my whole workflow runs on them. I keep everything in one Obsidian vault and write my own skills for the agent that works in it.
-- **Stock market:** I invest, and most of my projects started as something I needed for investing.
+- **Machine learning:** Learning it from the ground up, right now computer vision and object detection.
+- **AI agents:** My whole workflow runs on them. I keep everything in one Obsidian vault and write my own skills for the agent that works in it.
+- **Stock market:** Investing in stocks, and most of my projects started as something I needed for investing.
 - **Programming:** Python is the language I work in. I'm picking up HTML and JavaScript on the side.
 
 ### Projects
